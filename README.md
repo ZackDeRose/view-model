@@ -1,8 +1,8 @@
 # @derxjs/view-model
 
 <p align="center">
-    <img src="./derxjs-logo.jpg" />
-    </p>
+    <img src="./derxjs-logo.jpg" height="400px"/>
+</p>
 
 ## Installation
 

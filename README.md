@@ -95,6 +95,10 @@ The `DeRxJSViewModel` type is the `E = mc^2` of state management.
 
 Deceptively simple, but elegant enough to encompass any && all of your state management requirements.
 
+<p align="center">
+    <img src="./the-derxjs-view-model-pattern.png" />
+</p>
+
 ### TDD made awesome with timeline testing
 
 Embrace TDD, using timeline testing to test your code with a whole new dimension of precision.

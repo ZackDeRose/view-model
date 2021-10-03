@@ -1,6 +1,6 @@
 {
   "name": "@derxjs/view-model",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Official library for the DeRxJS Pattern",
   "scripts": {
     "test": "echo \"no tests necessary\" && exit 0"

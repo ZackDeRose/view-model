@@ -1,0 +1,27 @@
+{
+  "name": "@derxjs/view-model",
+  "version": "1.0.0",
+  "description": "Official library for the DeRxJS Pattern",
+  "scripts": {
+    "test": "echo \"no tests necessary\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZackDeRose/view-model.git"
+  },
+  "keywords": [
+    "rxjs",
+    "state",
+    "management"
+  ],
+  "author": "Zack DeRose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZackDeRose/view-model/issues"
+  },
+  "homepage": "https://github.com/ZackDeRose/view-model#readme",
+  "types": "index.ts",
+  "dependencies": {
+    "rxjs": "^7.3.1"
+  }
+}

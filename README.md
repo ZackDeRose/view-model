@@ -47,4 +47,4 @@ function reducer(state: ListViewModel, action: Action): ListViewModel {
 }
 ```
 
-See it in action on [StackBlitz]("https://stackblitz.com/edit/typescript-ttcedi?embed=1&file=index.ts")
+See it in action on [StackBlitz](https://stackblitz.com/edit/typescript-ttcedi?embed=1&file=index.ts)

@@ -70,7 +70,7 @@ Future packages on the roadmap will provide utilities for implementing this patt
 We solved this a long time ago. Programming to interfaces allows us to put a joint in our wrokflows that allows for parallel work to be completed by multiple developers, and lets your team play to their strengths.
 
 <p align="center">
-    <img src="./separation-of-tasks.jpg" />
+    <img src="./separation-of-tasks.png" />
 </p>
 
 This allows for easy transitions into other implementations, frameworks, as well as implementing the facade, adapter, and proxy patterns from the Gang of Four.

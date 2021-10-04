@@ -61,7 +61,7 @@ See it in action on [StackBlitz](https://stackblitz.com/edit/typescript-ttcedi?e
 
 Your state management code should not depend on which framework or tools your project happens to be using at the time.
 
-`@derxjs/view-model` is all about first-principles thinking and problem-solving. The pattern enforced by this package requires you to break down the inputs of your system - regardless of scope - to some set of inputs, represented as RxJS Observables, and
+`@derxjs/view-model` is all about first-principles thinking and problem-solving. The pattern enforced by this package requires you to break down the your system - regardless of scope - to some set of inputs, (preferably represented as RxJS Observables!), and expose a single Observable of your ViewModel as an output.
 
 Future packages on the roadmap will provide utilities for implementing this pattern (`@derxjs/reducer` 👀), as well as ultilities for plugging this pattern into popular front-end frameworks (`@derxjs/react` 👀).
 
